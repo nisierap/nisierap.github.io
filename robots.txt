@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nisierap.github.io/nisierap.txt.gz
+Sitemap: https://nisierap.github.io/app/nisierap.txt.gz
+Sitemap: https://nisierap.github.io/assets/nisierap.txt.gz
+Sitemap: https://nisierap.github.io/css/nisierap.txt.gz
+Sitemap: https://nisierap.github.io/includes/nisierap.txt.gz
+Sitemap: https://nisierap.github.io/item/nisierap.txt.gz
+Sitemap: https://nisierap.github.io/src/nisierap.txt.gz
